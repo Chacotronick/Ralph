@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "143019266503",
+    "firebase_url": "https://ralph-2f25a.firebaseio.com",
+    "project_id": "ralph-2f25a",
+    "storage_bucket": "ralph-2f25a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143019266503:android:97fa9b971fefed550a49e2",
+        "android_client_info": {
+          "package_name": "com.purple.miaplicacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143019266503-0s8giqsij2g9mrot5l1g49us8qcr0hol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.purple.miaplicacion",
+            "certificate_hash": "70bae058c5c3e25ade43d809f33f120ba3a1b39f"
+          }
+        },
+        {
+          "client_id": "143019266503-rc41m43ro1pr8ibe8djus0s3ricp58br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOYKaOR--De0-QUJo-B90JkmxzLSRTsew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143019266503-rc41m43ro1pr8ibe8djus0s3ricp58br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

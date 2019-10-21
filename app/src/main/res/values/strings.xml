@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiAplicacion</string>
+    <string name="title_activity_inicio_sesion_exitoso">InicioSesionExitoso</string>
+    <string name="title_activity_inicio_on">InicioOn</string>
+    <string name="title_activity_sesion_on">SesionOn</string>
+    <string name="action_settings">Settings</string>
+</resources>
